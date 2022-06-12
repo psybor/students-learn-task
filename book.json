@@ -1,7 +1,7 @@
 {
-    "title": "Web 前端架构师课-学员分享",
-    "author": "lego-team",
-    "description": "Web 前端架构师课-学员分享",
+    "title": "学习分享",
+    "author": "zy",
+    "description": "学习分享",
     "language": "zh-hans",
     "root": "docs",
     "plugins": [
@@ -35,7 +35,7 @@
             "url": "https://github.com/psybor/students-learn-task"
         },
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy imooc-lego (2020 - present)"
+            "copyright":"Copyright &copy zy (2020 - present)"
         },
         "hide-element": {
             "elements": [".gitbook-link"]
